@@ -39,5 +39,5 @@ app.post('/logout', (req, res) => {})
 app.get('/protected', (req, res) => {})
 
 app.listen(PORT, () => {
-  console.log(`server running on port ${PORT} - index.js:42`)
+  console.log(`server running on port http://localhost:${PORT} - index.js:42`)
 })
