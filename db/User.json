@@ -1,5 +1,20 @@
 [
   {
+    "_id": "ff1cbbd8-1bb8-4a07-9103-0bf9f15c92d7",
+    "username": "admin123",
+    "password": "$2b$10$cUfWgoGnNZUBiI9bZK9.8.xx3kCukF7kvHBNjpryHuX1.zmYLN562"
+  },
+  {
+    "_id": "59515c7d-4bcf-4010-a855-0cf42bd4a334",
+    "username": "everth",
+    "password": "$2b$10$99Jqpj7wFCKQzbYALOWaKOChWRkJB0.6JaAj3z9wMuwA1ux1FUf6a"
+  },
+  {
+    "_id": "bd3292e3-5fe4-4c45-a1d5-1009c05e3924",
+    "username": "giraldo",
+    "password": "$2b$10$R0ga.dP6aG6c3eWWW1dei.OY7nu6Oc80Y5a0PtsZ64kmhCprk1fVe"
+  },
+  {
     "_id": "0b7786f7-9f1e-4723-bb22-dfb3e53d1a9f",
     "username": "oweenDev",
     "password": "$2b$10$CNwH2O94/KO4D0oV8P4XkOF/oUEDJNPYbYgW6J4Ex9bHpBDLJ/dbi"
